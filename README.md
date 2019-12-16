@@ -1,2 +1,2 @@
 # gmvae
-Repository for 'Interpretable embeddings from molecular simulations using gaussian mixture variational autoencoders'
+Repository for 'Interpretable Embeddings from Molecular Simulations Using Gaussian Mixture Variational Autoencoders'
